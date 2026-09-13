@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "statsnet",
+  "version": "1.0.0",
+  "description": "Company data for Kazakhstan, Uzbekistan and Kyrgyzstan: registration, executives and finances.",
+  "author": {
+    "name": "Statsnet",
+    "email": "hello@statsnet.co",
+    "url": "https://statsnet.co"
+  },
+  "homepage": "https://statsnet.co",
+  "repository": "https://github.com/usenetstate/statsnet-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "company",
+    "kazakhstan",
+    "uzbekistan",
+    "kyrgyzstan",
+    "business"
+  ]
+}

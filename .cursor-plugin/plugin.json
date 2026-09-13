@@ -1,0 +1,18 @@
+{
+  "name": "statsnet",
+  "description": "Company data for Kazakhstan, Uzbekistan and Kyrgyzstan: registration, executives and finances.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Statsnet"
+  },
+  "homepage": "https://statsnet.co",
+  "repository": "https://github.com/usenetstate/statsnet-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "company",
+    "kazakhstan",
+    "uzbekistan",
+    "kyrgyzstan"
+  ]
+}
